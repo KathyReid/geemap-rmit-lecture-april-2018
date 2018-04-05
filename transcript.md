@@ -6,7 +6,15 @@ Slide: Introduction
 
 Thanks PRESENTER.
 
-I'm Kathy Reid, and I work as an independent technology consultant in Geelong. As you might be aware, Geelong is undergoing a period of rapid transformation - many of the large manufacturing industries in Geelong are closing and so the economy is being forced to transform to as service and knowledge based economy - and entrepreneurialism is a big part of that - in fact it's a key part of the City's 'Clever and Creative' 30 year strategic plan.
+Matt - Introduction
+
+I'm Kathy Reid, and I work as an independent technology consultant in Geelong.
+
+Slide: About Geelong
+
+The GEEmap story doesn't begin a few months ago, or even a couple of  years ago - it begins decades ago. 
+
+ As you might be aware, Geelong is undergoing a period of rapid transformation - many of the large manufacturing industries in Geelong are closing and so the economy is being forced to transform to as service and knowledge based economy - and entrepreneurialism is a big part of that - in fact it's a key part of the City's 'Clever and Creative' 30 year strategic plan.
 
 Many of the actors in Geelong:
 

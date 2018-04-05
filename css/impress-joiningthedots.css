@@ -10,6 +10,7 @@
   #E90077	Magenta
   #8E138E	Purple
   #ED552A	Orange
+  #D1BEAD Warm neutral
 */
 
 
@@ -523,8 +524,50 @@ h3 {
   background: url(../img/GEEmap-ecosystem-map-transparent.png) no-repeat center center fixed;
 }
 
+#CleverCreative {
+  background: url(../img/clever-creative-future.png) center center / cover no-repeat;
+  height: 100vh;
+  width: 100vw;
+  z-index: 505;
+}
+
+#PreviousMap1 {
+  background: url(../img/Colombia-Multiplier_border.png) center bottom / contain no-repeat;
+  height: 100vh;
+  width: 100vw;
+  z-index: 505;
+}
+
+#PreviousMap2 {
+  background: url(../img/EcosystemMapforOnline_3_2015.png) center center / contain no-repeat;
+  height: 100vh;
+  width: 100vw;
+  z-index: 505;
+}
+
+#PreviousMap3 {
+  background: url(../img/Blog770px-Adelaide-Entrepreneurial-Ecosystem.jpg) center center / contain no-repeat;
+  height: 100vh;
+  width: 100vw;
+  z-index: 505;
+}
+
+#PreviousMap4 {
+  background: url(../img/fmap7.jpg) center center / contain no-repeat;
+  height: 100vh;
+  width: 100vw;
+  z-index: 505;
+}
+
 #Survey {
   background: url(../img/geemap-survey.png) no-repeat center center fixed;
+}
+
+#SurveyReport {
+  background: url(../img/ecosystem-survey.png) center center / contain no-repeat;
+  height: 100vh;
+  width: 100vw;
+  z-index: 505;
 }
 
 #Mapping {
@@ -574,6 +617,8 @@ h3 {
 .large {
   font-size: 200%;
   text-align: center;
+  border-bottom: 5px dotted #D1BEAD;
+  padding: 1%;
 }
 
 .larger {
